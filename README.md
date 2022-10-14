@@ -13,7 +13,7 @@ March 5, 2021
 
 Incremental project background work is viewable within git by accessing the .ipynb files in order. 
 
-Incremental project presentation work is viewable within git by accessing the .pdf files in order, with project3 .pdf being a final summary presentation to AI Alphabet Inc. 
+Incremental project presentation work is viewable within git by accessing the .pdf files in order (click "more pages" at bottom to see full doc), with project3 .pdf being a final summary presentation to AI Alphabet Inc. 
 
 
 
